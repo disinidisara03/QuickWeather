@@ -22,7 +22,14 @@ namespace WeatherDesktopClient
             HelloWeatherDesktopService.WeatherServiceClient objService =
                 new HelloWeatherDesktopService.WeatherServiceClient("NetTcpBinding_IWeatherService");
 
-            label1.Text = objService.MyFunction();
+            //label1.Text = objService.MyFunction();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Current_location next = new Current_location();
+            next.Show();
+            this.Hide();
         }
     }
 }
