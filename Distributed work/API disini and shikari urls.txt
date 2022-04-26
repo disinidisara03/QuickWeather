@@ -1,0 +1,8 @@
+https://www.mulesoft.com/resources/api/what-is-an-api
+
+https://web.stanford.edu/group/csp/cs22/using-an-api.pdf
+
+https://idratherbewriting.com/learnapidoc/docapis_scenario_for_using_weather_api.html
+
+https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/?utm_source=google&utm_medium=cpc&utm_campaign=Beta&utm_term=%2Bweather%20%2Bapi_b&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9O8WDGQh-S1OyZfuzJ1uTHK6sGsWXq8YUZ5Ld5xI8HWLDIUokdyjRxoCMj8QAvD_BwE
+

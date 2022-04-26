@@ -1,0 +1,14 @@
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\obj\Debug\WeatherWCFService.csproj.AssemblyReference.cache
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\obj\Debug\WeatherWCFService.csproj.CoreCompileInputs.cache
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\bin\WeatherWCFService.dll.config
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\bin\WeatherWCFService.dll
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\bin\WeatherWCFService.pdb
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\obj\Debug\WeatherWCFService.dll
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\obj\Debug\WeatherWCFService.pdb
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\bin\WeatherWCFService.dll.config
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\bin\WeatherWCFService.dll
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\bin\WeatherWCFService.pdb
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\obj\Debug\WeatherWCFService.csprojAssemblyReference.cache
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\obj\Debug\WeatherWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\obj\Debug\WeatherWCFService.dll
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherWCFService\obj\Debug\WeatherWCFService.pdb

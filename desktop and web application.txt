@@ -1,0 +1,21 @@
+Heroku server for mobile 
+
+
+	Web Application 		   | 		Desktop Application 	
+
+	Front End					Front End 
+1.show weather news/blogs 			1.current location 	
+2.current loction .				2.weather.
+3.searching weather in different location 	3.searching weather in different locations.
+4.contact us page.
+
+
+	Back end					Back end 
+1.load balancing 				1.load balancing 
+2.middleware					2.middleware 
+
+
+01. Connect database.
+
+
+

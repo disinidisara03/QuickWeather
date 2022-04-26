@@ -1,0 +1,23 @@
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherHostApplication.exe.config
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherHostApplication.exe
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherHostApplication.pdb
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherWCFService.dll
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherWCFService.pdb
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherWCFService.dll.config
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\obj\Debug\WeatherHostApplication.csproj.AssemblyReference.cache
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\obj\Debug\WeatherHostApplication.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\obj\Debug\WeatherHostApplication.csproj.CoreCompileInputs.cache
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\obj\Debug\WeatherHostApplication.csproj.CopyComplete
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\obj\Debug\WeatherHostApplication.exe
+D:\GitHub\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\obj\Debug\WeatherHostApplication.pdb
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherHostApplication.exe.config
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherHostApplication.exe
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherHostApplication.pdb
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherWCFService.dll
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherWCFService.pdb
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\bin\Debug\WeatherWCFService.dll.config
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\obj\Debug\WeatherHostApplication.csprojAssemblyReference.cache
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\obj\Debug\WeatherHostApplication.csproj.CoreCompileInputs.cache
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\obj\Debug\WeatherHostApplication.csproj.CopyComplete
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\obj\Debug\WeatherHostApplication.exe
+C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\Distributed-system\Web App\WeatherWCFService\WeatherHostApplication\obj\Debug\WeatherHostApplication.pdb

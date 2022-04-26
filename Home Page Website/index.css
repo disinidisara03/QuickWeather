@@ -1,0 +1,119 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto',sans-serif;
+}
+.main_container{
+	width: 100%;
+	height: 100vh;
+	background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.7)),url(background2.jpg);
+	background-position: center;
+	background-size: cover;
+	padding-left: 8%;
+	padding-right: 8%;
+	box-sizing: border-box;
+	
+}
+.navigation_bar{
+	height: 12%;
+	display: flex;
+	color: white;
+	align-items: center;
+}
+.logo_pet{
+	width: 125px;
+	margin-top: 30px;
+	cursor: pointer;
+}
+.navi-icon{
+	width: 40px;
+	cursor: pointer;
+	margin-left: 40px;
+}
+nav{
+	flex:1;
+	text-align: right;
+	color: white;
+}
+nav ul li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 60px;
+	color: white;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+}
+nav ul li a:hover{
+	color: black;
+}
+
+.row{
+	display: flex;
+	height: 88%;
+	align-items: center;
+}
+.column{
+	flex-basis: 50%;
+}
+h1{
+	flex-basis: 50%;
+	color: white;
+	font-size: 80px;
+}
+p{
+	color: white;
+	font-size: 15px;
+	line-height: 15px;
+}
+button{
+	width: 180px;
+	color: #000;
+	font-size: 12px;
+	padding-left: 12px 0;
+	background:white;
+	border: 0;
+	border-radius: 20px;
+	outline: none;
+	margin-top:30px;
+	height: 30px;
+	margin-left:60px; 
+}
+
+.box{
+	width: 200px;
+	height: 230px;
+	display: inline-block;
+	border-radius: 10px;
+	padding:15px 25px;
+	box-sizing: border-box;
+	cursor: pointer;
+	margin: 10px 15px; 
+	background-position: center;
+	background-size: cover;	
+	transition: transform 0.5s;
+}
+
+.card1{
+	background-image: url(background.jpg); 
+}
+
+.card2{
+	background-image: url(signup.jpg); 
+}
+.card3{
+	background-image: url(check.jpg); 
+}
+.card4{
+	background-image: url(login.jpg); 
+}
+.box:hover{
+	transform: translateY(-10px);
+}
+h5{
+	color: #fff;
+	text-shadow: 0 0 5px #999;
+}

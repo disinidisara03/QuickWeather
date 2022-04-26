@@ -1,0 +1,21 @@
+App:
+Flutter = dart
+resource sharing(taking picture of weather and uploading it)
+We will NOT be having a sign in and sign up
+fault tolerance (load balancing)
+transparency 
+Firebase database 
+
+
+Website:
+Backend: firebase database 
+NGINX - load balancer 
+Heroku - server 
+Node js 
+
+
+Frontend website:
+1.Blue 
+2.pink 
+3.black 
+4.

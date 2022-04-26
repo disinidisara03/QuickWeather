@@ -1,0 +1,21 @@
+Load Balancer ----- Heroku (check) (disini)
+Servers ------ Heroku (dilhani)
+Middleware --- (mujeeb) [Express js]
+Database ----- Firebase/sql (nilhan)
+API --- (dewni)
+
+Admin Panel ----
+
+
+https://fcc-weather-api.glitch.me/api/current?lat=53.7071&lon=-1.24
+
+
+$(document).ready(function() {
+function weather(){
+var URL = 'https://fcc-weather-api.glitch.me/api/current?lat=53.7071&lon=-1.24';
+
+$.getJSON(URL,function(data){
+console.log(data);
+});
+}
+});

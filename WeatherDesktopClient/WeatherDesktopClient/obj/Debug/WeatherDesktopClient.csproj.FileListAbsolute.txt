@@ -1,0 +1,10 @@
+C:\Users\Disini\source\repos\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\WeatherDesktopClient.exe.config
+C:\Users\Disini\source\repos\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\WeatherDesktopClient.exe
+C:\Users\Disini\source\repos\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\WeatherDesktopClient.pdb
+C:\Users\Disini\source\repos\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.csprojAssemblyReference.cache
+C:\Users\Disini\source\repos\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.Properties.Resources.resources
+C:\Users\Disini\source\repos\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.csproj.GenerateResource.cache
+C:\Users\Disini\source\repos\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\Disini\source\repos\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.exe
+C:\Users\Disini\source\repos\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.pdb
+C:\Users\Disini\source\repos\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.Form1.resources

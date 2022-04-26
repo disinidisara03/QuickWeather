@@ -1,0 +1,16 @@
+middleware - dilhani and nilhan 
+APIs and templates - shikari and disini
+heterogenity - dewni and mujeeb 
+
+•	Managing Heterogeneity: The distributed system must consist of at least three devices communicating with each other. 
+At least one device must be a PC or virtual machine running on a PC. One other device must be a mobile networked device.
+ The mobile device, typically acting as a client, will be running an embedded operating system such as Windows Mobile OS, Apple iOS or Android.
+ Other networked computers may include your own laptop. 
+•	Your system should be robust and responsive, and tolerant to network failures.
+•	Choosing Middleware: You need to select a middleware in implementation and the use of suitable middleware will attract marks.
+ You must be able to justify your choice of middleware in terms of the application architecture and functionality.
+•	You are expected to make use of legally available software components, APIs, templates, etc.  
+However, YOU MUST DECLARE EVERYTHING YOU HAVE USED in your report and explain how and why you have used them.
+
+//talk to sir pramudya
+

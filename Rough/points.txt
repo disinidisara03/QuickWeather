@@ -1,0 +1,28 @@
+Ask keleigh about the used API's.
+Design the frontend for app and website.
+Service oriented architecture
+web based and client based application to show how features such as fault tolernace, data traffic balancing and connectivity works.
+
+
+
+Overview- Shikari 
+Objectives- Nilhan and mujeeb 
+target users - shikari 
+Application features and description - disini 
+application technologies with proper justification - Nilhan and dewni 
+Time frame - dilhani (gantt chart), project plan, SLDC - disini 
+Referencing - everyone.
+
+Project Plan : Frontend designing- 
+Web Application and App-  
+Research - 
+Design - 
+Implemntation of frontend - 
+Implmentation of backend -
+Testing - 
+Maintanence - 
+Report - 
+
+
+Implementation of login and sign up for an admin panel (not sure about admin panel).
+
