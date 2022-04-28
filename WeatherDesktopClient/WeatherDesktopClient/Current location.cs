@@ -46,7 +46,12 @@ namespace WeatherDesktopClient
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Weather wth = new Weather()
+            {
+                location = textBox1.Text,
+            };
+            var set = client.Set("Location/" +textBox1.Text,wth);
+            MessageBox.Show("data inserted successfully");
         }
     }
 }
