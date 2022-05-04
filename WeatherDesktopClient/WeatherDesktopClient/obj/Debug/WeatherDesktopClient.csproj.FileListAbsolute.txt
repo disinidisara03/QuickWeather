@@ -34,3 +34,29 @@ C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\ds-02-\WeatherDesk
 C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.csproj.CopyComplete
 C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.exe
 C:\Users\Disini\Desktop\Third Year\Distributed Systems\github\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.pdb
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\WeatherDesktopClient.exe.config
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\WeatherDesktopClient.exe
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\WeatherDesktopClient.pdb
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\FireSharp.dll
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.csproj.App.config
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.csproj.AssemblyReference.cache
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.Current_location.resources
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.Form1.resources
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.Properties.Resources.resources
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.csproj.GenerateResource.cache
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.csproj.CopyComplete
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.exe
+C:\Users\C TECH\Desktop\ds-02-\WeatherDesktopClient\WeatherDesktopClient\obj\Debug\WeatherDesktopClient.pdb
