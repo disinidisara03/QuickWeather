@@ -1,0 +1,35 @@
+Introduction to The Distributed System - Shikari DONE
+Acknowledgement - Shikari DONE
+Introduction to QuickWeather - Shikari
+Usefulness of real-world application - Disini 
+Scope of The Project - 
+Admin Panel of QuickWeather -
+Mobile Application as Client - 
+Methodology  - Shikari
+Technologies -
+Gantt Chart - DONE (edit till may)
+Selection of Middleware -
+Middleware P2P Network -
+Technical Diagram - 
+Overview of Technical Diagram - 
+Technical Architectural Diagram -
+Load Balancing -
+With Load Balancing Without Load Balancing Diagram -
+Tolerance to Network Failure-
+Load Balancer -
+System architectural Diagram  -
+User Requirements  -
+Functional Requirements  -
+API / Middleware Justification  -
+server diagrams -
+Software components used  -
+Distributing the system, Distributed File System - 
+Issues faced and actions taken  - 
+Development phases  -
+Tasks undertaken, Screenshots of the website -
+Screenshots of the mobile application -
+Future enhancement of the system - 
+Risk assessment -
+Quality plan -
+Summary -
+Individual contribution - 
