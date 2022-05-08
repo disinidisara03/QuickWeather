@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="sm">12dp</dimen>
-    <dimen name="md">14dp</dimen>
-    <dimen name="lg">16dp</dimen>
-    <dimen name="xl">18dp</dimen>
-    <dimen name="xxl">20dp</dimen>
-</resources>
