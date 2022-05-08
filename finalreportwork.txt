@@ -3,9 +3,9 @@ Acknowledgement - Shikari DONE
 Introduction to QuickWeather - Disini DONE  
 Usefulness of real-world application - Disini - done 
 Scope of The Project - Mujeeb
-
 Mobile Application as Client - nilhan
 Methodology  - Shikari
+Databases:PhpMyAdmin SQL
 Technologies - dewni
 Gantt Chart - DONE (edit till may)
 Selection of Middleware - nilhan
@@ -20,7 +20,7 @@ Load Balancer - mujeeb
 System architectural Diagram  - dilhani
 User Requirements  - disini - done 
 Functional Requirements  - dewni
-API / Middleware Justification  - shikari 
+API / Middleware Justification  - mujeeb 
 server diagrams - dilhani
 Software components used  - disini 
 Distributing the system, Distributed File System - dewni 
