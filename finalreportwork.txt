@@ -2,28 +2,28 @@ Introduction to The Distributed System - Shikari DONE
 Acknowledgement - Shikari DONE
 Introduction to QuickWeather - Disini DONE  
 Usefulness of real-world application - Disini - done 
-Scope of The Project - Mujeeb
-Mobile Application as Client - nilhan
-Methodology  - Shikari
-Databases:PhpMyAdmin SQL
-Technologies - dewni
-Gantt Chart - DONE (edit till may)
-Selection of Middleware - nilhan
-Middleware P2P Network - dilhani 
-Technical Diagram - dilhani
+Scope of The Project - Mujeeb ??
+Mobile Application as Client - nilhan ??
+Methodology  - Shikari DONE*
+Databases:PhpMyAdmin SQL - dewni DONE [NEED SCREENSHOT]
+ 
+Gantt Chart - DONE  
+Selection of Middleware - nilhan ??
+Middleware P2P Network - dilhani [CLARIFY]
+Technical Diagram - dilhani [CLARIFY]
 Overview of Technical Diagram - dilhani
 Technical Architectural Diagram - dilhani
 Load Balancing - mujeeb 
 With Load Balancing Without Load Balancing Diagram - dilhani
-Tolerance to Network Failure- dewni 
+Tolerance to Network Failure- dewni DONE
 Load Balancer - mujeeb
-System architectural Diagram  - dilhani
+System architectural Diagram  - dilhani [CLARIFY]
 User Requirements  - disini - done 
-Functional Requirements  - dewni
+Functional Requirements  - dewni DONE
 API / Middleware Justification  - mujeeb 
 server diagrams - dilhani
 Software components used  - disini 
-Distributing the system, Distributed File System - dewni 
+Distributing the system, Distributed File System - dewni [NEED SCREENSHOT]
 Issues faced and actions taken  - nilhan 
 Development phases  - everybody 
 Tasks undertaken, Screenshots of the website - everybody 
