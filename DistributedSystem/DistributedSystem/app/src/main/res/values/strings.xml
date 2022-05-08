@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">mosquitoapp</string>
-    <string name="mapkey" templateMergeStrategy="preserve" translatable="false">AIzaSyD8HZ9Is3SwaYwv9WiTvWZIKwVH15M8Dbw</string>
-    <string name="getPosts">http://10.0.2.2:8000/api/post/GET_ALL</string>
-    <string name="loginUrl">http://10.0.2.2:8000/api/user/LOGIN</string>
-    <string name="registerUrl">http://10.0.2.2:8000/api/user/REGISTRATION</string>
-    <string name="newPOST">http://10.0.2.2:8000/api/post/REGISTER</string>
-</resources>
