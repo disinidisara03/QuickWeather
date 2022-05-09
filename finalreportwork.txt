@@ -13,14 +13,23 @@ Middleware P2P Network - dilhani [CLARIFY]
 Technical Diagram - dilhani [CLARIFY]
 Overview of Technical Diagram - dilhani
 Technical Architectural Diagram - dilhani
-Load Balancing - mujeeb 
+Load Balancing - mujeeb DONE
 With Load Balancing Without Load Balancing Diagram - dilhani
+<<<<<<< Updated upstream
 Tolerance to Network Failure- dewni DONE
 Load Balancer - mujeeb
 System architectural Diagram  - dilhani [CLARIFY]
 User Requirements  - disini - done 
 Functional Requirements  - dewni DONE
 API / Middleware Justification  - mujeeb 
+=======
+Tolerance to Network Failure- dewni 
+Load Balancer - mujeeb DONE
+System architectural Diagram  - dilhani
+User Requirements  - disini - done 
+Functional Requirements  - dewni
+API / Middleware Justification  - mujeeb DONE
+>>>>>>> Stashed changes
 server diagrams - dilhani
 Software components used  - disini 
 Distributing the system, Distributed File System - dewni [NEED SCREENSHOT]
