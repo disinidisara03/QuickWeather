@@ -6,7 +6,6 @@ Scope of The Project - Mujeeb ??
 Mobile Application as Client - nilhan ??
 Methodology  - Shikari DONE*
 Databases:PhpMyAdmin SQL - dewni DONE [NEED SCREENSHOT]
- 
 Gantt Chart - DONE  
 Selection of Middleware - nilhan ??
 Middleware P2P Network - dilhani [CLARIFY]
@@ -21,7 +20,7 @@ System architectural Diagram  - dilhani [CLARIFY]
 User Requirements  - disini - done 
 Functional Requirements  - dewni DONE
 API / Middleware Justification  - mujeeb 
-server diagrams - dilhani
+server diagrams - dilhani DONE
 Software components used  - disini 
 Distributing the system, Distributed File System - dewni [NEED SCREENSHOT]
 Issues faced and actions taken  - nilhan 
